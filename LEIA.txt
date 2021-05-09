@@ -1,0 +1,9 @@
+BAIXAR O NODEJS NO SEU PC
+Vá ao site oficial do discord developers(https://discord.com/developers/applications) e crie um bot e pegue o token e meta o token no config.json
+Agora clique "CRTL + Ç" e escreva "npm i discord.js"
+AGORA DIVIRTA-SE :)
+
+
+créditos: bots community
+
+SE DER ERRO PQ FOSSES ALTERARAM ALGO E NAO SABERM TIRAR AS COISAS, NAO E POR DM MAS SIM NA SALA DE DUVIDAS
